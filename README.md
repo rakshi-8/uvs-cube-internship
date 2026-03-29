@@ -1,5 +1,7 @@
 UVS Cube Internship – .NET MAUI App Development
+
 📌 Internship Details
+
 🏢 Company: UVS Cube Infotech
 ⏳ Duration: 1 Month
 🎯 Domain: .NET MAUI App Development
@@ -10,6 +12,7 @@ This internship focuses on building modern cross-platform mobile applications us
 It covers UI design, API integration, device features, and deployment.
 
 🛠️ Tech Stack
+
 ⚙️ Visual Studio 2026
 🔷 .NET 10
 📱 .NET MAUI
